@@ -151,7 +151,7 @@ const Dashboard: React.FC = () => {
               </div>
               <div>
                 <div className="flex justify-between mb-1">
-                  <span className="text-blue-600">Post Frequency</span>
+                  <span className="text-blue-600">User Interaction Rate</span>
                   <span className="text-blue-800 font-semibold">70%</span>
                 </div>
                 <div className="w-full bg-blue-200 rounded-full h-2.5">
